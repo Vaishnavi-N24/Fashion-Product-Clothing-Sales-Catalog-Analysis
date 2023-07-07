@@ -1,10 +1,9 @@
 # Analysis of Sales Report of a Clothes Manufacturing Outlet
 
 1. [Project Motivation](#ProjectMotivation)
-2. [Installation](#installation)
-3. [Data](#data)
-4. [Implementation](#model)
-5. [Results](#results)
+2. [Data](#data)
+3. [Implementation](#model)
+4. [Results](#results)
 
 ## 1. Project Motivation <a name="ProjectMotivation"></a> 
 
